@@ -1,6 +1,6 @@
 # tune
 
-A new Flutter project.
+A simple Tune App 
 
 ## Getting Started
 
